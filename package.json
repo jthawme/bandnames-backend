@@ -1,0 +1,15 @@
+{
+  "name": "bandnames",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "fast-csv": "^4.3.6",
+    "is-plural": "^0.1.1",
+    "jsonfile": "^6.1.0",
+    "spotify-web-api-node": "^5.0.2",
+    "wordlist-english": "^1.2.1"
+  }
+}
